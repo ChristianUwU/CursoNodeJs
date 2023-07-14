@@ -1,0 +1,7 @@
+mirar el video de fernando herrera de node clase 33 npm init
+
+para instalar el paquete de colores poner npm i colors
+
+para instalar nodemon npm install nodemon --save-dev
+
+instalar paquete de yargs npm i yargs
